@@ -119,4 +119,4 @@ clients_logo_slider:
     URL: http://examplesite.com
 blog:
   enable: true
-  title: Blogs
+  title: Blog
