@@ -31,6 +31,11 @@ sections:
   create: all
   match: "**/*"
 - type: directory
+  path: exampleSite/content/about
+  label: About
+  create: all
+  match: "**/*"
+- type: directory
   path: exampleSite/i18n
   label: i18n
   create: documents
