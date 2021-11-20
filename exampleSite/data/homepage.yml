@@ -23,8 +23,8 @@ skill:
   - title: NFTs
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: Business
+    progress: 88%
     color: "#ffbcaa"
 experience:
   enable: true
