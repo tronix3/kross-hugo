@@ -65,9 +65,6 @@ enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
 URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
 icon = "ti-instagram"
 [[params.social]]
 URL = "#"
