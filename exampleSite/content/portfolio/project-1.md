@@ -5,9 +5,7 @@ image: images/portfolio/item-1.png
 client: John Doe
 project_url: https://themefisher.com/
 categories:
-- design
-- development
-- crypto
+- Crypto
 description: This is meta description.
 
 ---
