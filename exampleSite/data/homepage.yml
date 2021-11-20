@@ -58,8 +58,9 @@ service:
   item:
   - title: Crypto/NFT integration
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: Integrate NFT's or Crypto in your business, game, personal life or anywhere
+      in between. I am an expert at investing and integrating the blockchain in your
+      life.
     highlighted: false
   - title: UX Design
     icon: ti-target
