@@ -20,17 +20,17 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+address = ""
+author = "Jeffery Sill"
 baidu_analytics_id = ""
 baidu_site_verification = ""
-copyright = "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+copyright = "Copyright &copy; 2022 a Theme by...Jeffery Sill"
+description = "Page about Jeffery Sill "
+email = ""
 google_analytics_id = ""
 home = "Home"
 logo = ""
-phone = "+880 2544 658 256"
+phone = ""
 theme_color = "#41228e"
 [params.contact]
 enable = true
