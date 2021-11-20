@@ -39,10 +39,10 @@ form_action = "#"
 enable = true
 expire_days = 2
 [params.map]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+enable = false
+gmap_api = ""
+map_latitude = ""
+map_longitude = ""
 map_marker = "images/marker.png"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
@@ -69,9 +69,6 @@ icon = "ti-facebook"
 [[params.social]]
 URL = "#"
 icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
 [[params.social]]
 URL = "#"
 icon = "ti-twitter-alt"
