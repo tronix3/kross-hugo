@@ -67,10 +67,10 @@ service:
       in between. I am an expert at investing and integrating the blockchain in your
       life.
     highlighted: true
-  - title: Interaction Design
+  - title: Web Design/SEO
     icon: ti-panel
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: 'Proficient at web design and boosting business & Individuals to #1 in
+      Google searches.'
     highlighted: false
 portfolio:
   enable: true
