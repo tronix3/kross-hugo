@@ -1,13 +1,12 @@
 ---
-title: "About"
-description: "This is meta description."
-author_image : "images/about/author.jpg"
-author_signature : "images/about/signature.png"
-draft: false
+title: About
+description: This is meta description.
+author_image: images/about/author.jpg
+author_signature: images/about/signature.png
+
 ---
+I am Jeffery Sill, passionate about blockchain technology. I have been studying and learning about it non-stop for over a year now and have become immersed in the environment by browsing Twitter, various Discord channels, and researching every day.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am currently a mod on a couple NFT projects for their Discords, I have made friends and future business partners whom I work with on a daily basis, researching opportunities and various investments. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+I have a side job where I do web design/development and SEO for a couple large companies. I am also a landlord and own property. My biggest passion is for the blockchain, crypto, NFT's, and crypto gaming. This technology will change the world and every industry in it.
