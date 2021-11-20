@@ -49,9 +49,9 @@ education:
   - title: BSN
     year: "2010"
     academy: WVU
-  - title: Computer Science
+  - title: Bachelor of Computer Science
     year: In Progress
-    academy: ''
+    academy: OSSU
 service:
   enable: true
   title: Services
