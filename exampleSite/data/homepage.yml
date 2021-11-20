@@ -49,15 +49,9 @@ education:
   - title: BSN
     year: "2010"
     academy: WVU
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
-  - title: Higher Secondary Certificat
-    year: "2000"
-    academy: Cardiff School
-  - title: Secondary School Certificate
-    year: "1998"
-    academy: Cardiff School
+  - title: Computer Science
+    year: In Progress
+    academy: ''
 service:
   enable: true
   title: Services
