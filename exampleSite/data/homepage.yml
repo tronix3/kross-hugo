@@ -56,11 +56,10 @@ service:
   enable: true
   title: Services
   item:
-  - title: Crypto/NFT integration
+  - title: Blockchain
     icon: ti-palette
-    content: Integrate NFT's or Crypto in your business, game, personal life or anywhere
-      in between. I am an expert at investing and integrating the blockchain in your
-      life.
+    content: Future blockchain dev but I have some developers on call if anything
+      needs to be created.
     highlighted: false
   - title: Cryptocurrency/NFT's
     icon: ti-target
