@@ -3,14 +3,12 @@ banner:
   title: Hi! I’m <br> Jeffery <br> Crypto & NFT expert
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: I know web design, I am an SEO expert. I know cryptocurrency investing,
+    NFT's, and crypto gaming. I can help you integrate crypto and NFT's in your games.
+    I can help your business integrate with cryptocurrencies and NFT's.
   button:
     enable: true
-    label: know more
+    label: discover more
     URL: about
 skill:
   enable: true
